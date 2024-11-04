@@ -1,0 +1,7 @@
+D:\3rm\programiranje\07102024\07102024\bin\Debug\07102024.exe.config
+D:\3rm\programiranje\07102024\07102024\bin\Debug\07102024.exe
+D:\3rm\programiranje\07102024\07102024\bin\Debug\07102024.pdb
+D:\3rm\programiranje\07102024\07102024\obj\Debug\07102024.csproj.AssemblyReference.cache
+D:\3rm\programiranje\07102024\07102024\obj\Debug\07102024.csproj.CoreCompileInputs.cache
+D:\3rm\programiranje\07102024\07102024\obj\Debug\07102024.exe
+D:\3rm\programiranje\07102024\07102024\obj\Debug\07102024.pdb
